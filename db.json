@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "done": true,
+      "id": 1
+    },
+    {
+      "done": true,
+      "id": 2
+    },
+    {
+      "title": "naruto",
+      "done": false,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

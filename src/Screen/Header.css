@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    text-decoration: none   ;
+    color: white;
+}
+.home{
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+     
+}
+
+
+
